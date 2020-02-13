@@ -1,0 +1,12 @@
+Test bezüglich der Aufgabe 12 Damebrettspiel
+
+Die Ausgabe des Brettes, die Position der Steine und welcher Spieler
+derzeit am Zug ist wird automatisch beim Start des Programmes getestet.
+Über die Tastatur kann der Eingabeoperator getestet werden:
+Beispielsweise A3 B4 führt zu einer Verschiebung eines weißen Steines
+von A3 zu B4. Durch '-' bei der nächsten Eingabe kann der Zug
+rückgängig gemacht werden. Falls eine ungueltige Eingabe zustande 
+kommt, wird der Spieler darüber informiert und zur erneuten Eingabe
+aufgefordert.
+Falls ein Spieler nicht mehr ziehen kann, oder ein Spieler keine Steine
+mehr besitzt, wird das Programm beendet.

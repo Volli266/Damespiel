@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1516789347 source:c:\users\alex vollrath\meins\studium\1. fs\anwendungsorientierte programmierung\prüfungsaufgaben\dame\dame.cpp
+	<iostream>
+	<string>
+
+1516790215 source:c:\users\alex vollrath\meins\studium\1. fs\anwendungsorientierte programmierung\prüfungsaufgaben\dame\test.cpp
+	<iostream>
+	<string>
+
+1518377532 source:c:\users\alex vollrath\desktop\dame\dame.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<vector>
+	"Dame.hpp"
+
+1517316849 source:c:\users\alex vollrath\desktop\dame\test.cpp
+	<iostream>
+	<string>
+	"Dame.hpp"
+
+1518377551 c:\users\alex vollrath\desktop\dame\dame.hpp
+	<iostream>
+	<string>
+
+1518427545 source:c:\users\alex vollrath\desktop\dame\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"Dame.hpp"
+
+1518381132 source:c:\users\alex vollrath\meins\studium\1. fs\anwendungsorientierte programmierung\dame\dame.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<vector>
+	"Dame.hpp"
+
+1518381151 c:\users\alex vollrath\meins\studium\1. fs\anwendungsorientierte programmierung\dame\dame.hpp
+	<iostream>
+	<string>
+
+1517320449 source:c:\users\alex vollrath\meins\studium\1. fs\anwendungsorientierte programmierung\dame\test.cpp
+	<iostream>
+	<string>
+	"Dame.hpp"
+
+1518434015 source:c:\users\alex vollrath\meins\studium\1. fs\anwendungsorientierte programmierung\dame\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"Dame.hpp"
+

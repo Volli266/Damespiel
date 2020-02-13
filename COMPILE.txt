@@ -1,0 +1,1 @@
+clang++ main.cpp Dame.cpp -o Dame -std=c++14 -Weverything -Wno-c++98-compat
